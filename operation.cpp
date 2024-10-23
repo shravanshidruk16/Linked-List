@@ -1,4 +1,6 @@
 // In this program we will see how to push an element from front position and back position in the linked list
+// We will see how to pop an element from the front
+// Also how to insert an element at a given position
 #include <iostream>
 using namespace std;
 
